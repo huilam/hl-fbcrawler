@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/restfb-1.33.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/nec-nls-hl-common"/>
+	<classpathentry kind="lib" path="lib/hl-common_20180115-1522-02.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>

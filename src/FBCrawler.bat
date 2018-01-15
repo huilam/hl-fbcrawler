@@ -1,0 +1,1 @@
+Java -Xms128m -Xmx384m -cp "lib\fb.crawler.jar;lib\restfb-1.33.0.jar" hl.crawler.social.facebook.FBCrawler %*
